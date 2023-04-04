@@ -1,6 +1,6 @@
 {
-  "name": "facebook/php-business-sdk",
-  "description": "PHP SDK for Facebook Business",
+  "name": "vinsanityshred/facebook-php-business-sdk",
+  "description": "Fork of PHP SDK for Facebook Business to support PHP 7.4",
   "type": "library",
   "keywords": [
     "facebook",
@@ -12,7 +12,7 @@
   ],
   "homepage": "https://developers.facebook.com/",
   "require": {
-    "php": ">=8.0",
+    "php": "7.4",
     "guzzlehttp/guzzle": "^6.5 || ^7.0"
   },
   "require-dev": {
